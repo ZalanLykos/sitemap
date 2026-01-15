@@ -8,17 +8,23 @@
     <changefreq>weekly</changefreq>
   </url>
 
+  <url>
+    <loc>https://zalanlykos.github.io/about/</loc>
+    <priority>1.0</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
   <!-- Projects -->
   <url>
     <loc>https://zalanlykos.github.io/qr-code-generator/</loc>
     <priority>0.9</priority>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
 
   <url>
     <loc>https://zalanlykos.github.io/live-html-editor/</loc>
     <priority>0.9</priority>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
 
   <!-- Add more projects below -->
